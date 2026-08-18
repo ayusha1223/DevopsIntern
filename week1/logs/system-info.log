@@ -2,43 +2,44 @@
 User:
 ayushathapa
 Date:
-Tue Aug 18 10:05:14 +0545 2026
+Tue Aug 18 10:46:27 +0545 2026
 Current Directory:
 /Users/ayushathapa/devops-internship/week1
 Disk Usage:
 Filesystem        Size    Used   Avail Capacity iused ifree %iused  Mounted on
-/dev/disk3s1s1   228Gi    12Gi   142Gi     8%    459k  1.5G    0%   /
-devfs            210Ki   210Ki     0Bi   100%     728     0  100%   /dev
-/dev/disk3s6     228Gi    20Ki   142Gi     1%       0  1.5G    0%   /System/Volumes/VM
-/dev/disk3s2     228Gi   8.4Gi   142Gi     6%    1.4k  1.5G    0%   /System/Volumes/Preboot
-/dev/disk3s4     228Gi   2.8Mi   142Gi     1%      65  1.5G    0%   /System/Volumes/Update
+/dev/disk3s1s1   228Gi    12Gi   141Gi     8%    459k  1.5G    0%   /
+devfs            215Ki   215Ki     0Bi   100%     744     0  100%   /dev
+/dev/disk3s6     228Gi   1.0Gi   141Gi     1%       1  1.5G    0%   /System/Volumes/VM
+/dev/disk3s2     228Gi   8.4Gi   141Gi     6%    1.4k  1.5G    0%   /System/Volumes/Preboot
+/dev/disk3s4     228Gi   2.8Mi   141Gi     1%      65  1.5G    0%   /System/Volumes/Update
 /dev/disk2s2     500Mi   6.0Mi   482Mi     2%       1  4.9M    0%   /System/Volumes/xarts
 /dev/disk2s1     500Mi   5.8Mi   482Mi     2%      31  4.9M    0%   /System/Volumes/iSCPreboot
 /dev/disk2s3     500Mi   1.0Mi   482Mi     1%      81  4.9M    0%   /System/Volumes/Hardware
-/dev/disk3s5     228Gi    65Gi   142Gi    32%    562k  1.5G    0%   /System/Volumes/Data
+/dev/disk3s5     228Gi    65Gi   141Gi    32%    566k  1.5G    0%   /System/Volumes/Data
 map auto_home      0Bi     0Bi     0Bi   100%       0     0     -   /System/Volumes/Data/home
 /dev/disk6s2     2.3Gi   2.1Gi   170Mi    93%     274  4.3G    0%   /Volumes/Docker
+/dev/disk10s1    591Mi   450Mi   139Mi    77%     999  1.4M    0%   /Volumes/Tivazo 2.1.8-arm64
 Memory Information:
 Mach Virtual Memory Statistics: (page size of 16384 bytes)
-Pages free:                                    14641.
-Pages active:                                 116972.
-Pages inactive:                               115614.
-Pages speculative:                              2074.
+Pages free:                                     3739.
+Pages active:                                 119939.
+Pages inactive:                               118998.
+Pages speculative:                               701.
 Pages throttled:                                   0.
-Pages wired down:                              85454.
-Pages purgeable:                                9750.
-"Translation faults":                       21274848.
-Pages copy-on-write:                          784372.
-Pages zero filled:                          14637440.
-Pages reactivated:                           3449055.
-Pages purged:                                 381641.
-File-backed pages:                             79052.
-Anonymous pages:                              155608.
-Pages stored in compressor:                   349985.
-Pages occupied by compressor:                 152577.
-Decompressions:                              2243813.
-Compressions:                                3422302.
-Pageins:                                     2353071.
-Pageouts:                                      17367.
-Swapins:                                           0.
-Swapouts:                                          0.
+Pages wired down:                              89312.
+Pages purgeable:                                2556.
+"Translation faults":                       29526964.
+Pages copy-on-write:                          924901.
+Pages zero filled:                          20214676.
+Pages reactivated:                           5764317.
+Pages purged:                                 610464.
+File-backed pages:                             70222.
+Anonymous pages:                              169416.
+Pages stored in compressor:                   352032.
+Pages occupied by compressor:                 154664.
+Decompressions:                              4118262.
+Compressions:                                5884365.
+Pageins:                                     2764171.
+Pageouts:                                      26407.
+Swapins:                                        2351.
+Swapouts:                                      16020.
